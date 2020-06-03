@@ -12,14 +12,14 @@
 
 > Links
 
-- [Flask Dashboard Corona PRO](https://django-dashboard-corona-dark-pro.appseed.us/) - LIVE Demo
-- [Flask Dashboard Corona PRO](https://appseed.us/admin-dashboards/django-dashboard-corona-dark-pro) - Official product page
+- [Django Dashboard Corona PRO](https://django-dashboard-corona-dark-pro.appseed.us/) - LIVE Demo
+- [Django Dashboard Corona PRO](https://appseed.us/admin-dashboards/django-dashboard-corona-dark-pro) - Official product page
 - More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
 - [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
 <br />
 
-![Flask Dashboard Corona PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-corona-dark-pro/master/media/django-dashboard-corona-dark-pro-screen.png)
+![Django Dashboard Corona PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-corona-dark-pro/master/media/django-dashboard-corona-dark-pro-screen.png)
 
 <br />
 
